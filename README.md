@@ -25,7 +25,7 @@ You can play the game [here](https://tic-tac-toe-81.netlify.app/).
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/khanadnan09/tic-tac-toe.git
+    git clone [https://github.com/khanadnan09/tic-tac-toe.git](https://github.com/khanadnan09/TIC-TAC-TOE)
     ```
 2. Navigate to the project directory:
     ```bash
